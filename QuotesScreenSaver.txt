@@ -1,0 +1,4 @@
+Habe ich alle FxCops, StyleCops oder JsLints behoben?
+Habe ich fuer allen neuen Code Unit-Tests geschrieben?
+Hat jemand meinen Code revisiert?
+Habe ich early Feedback eingeholt?
